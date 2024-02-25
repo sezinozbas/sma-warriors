@@ -1,6 +1,5 @@
 # SMA Warriors
 
-![SMA Warriors Logo](logo.png)
 
 ## About
 
@@ -30,7 +29,7 @@ SMA Warriors is a Flutter project that provides information and support against 
 
 3. Install the necessary packages:
 
-   ``bash
+   ```bash
    flutter pub get
     ```
 
